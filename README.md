@@ -102,7 +102,7 @@ THEME = THEMES["light"]
 
 ## 📄 License
 
-MIT License. See `LICENSE` file for details.
+General Public License. See `LICENSE` file for details.
 
 
 
