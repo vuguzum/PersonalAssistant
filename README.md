@@ -70,9 +70,7 @@ Make sure your backend server supports this structure (e.g. OpenAI-compatible).
 
 Whisper models supported:
 - `tiny`, `base`, `small`, `medium`, `large`, etc.
-- `.en` suffix for English-only variants
-
-By default, it uses the `"medium"` model and chooses `cuda` if available, otherwise `cpu`.
+- `.en` suffix for English-only variants, etc.
 
 ## 🎨 Themes
 
@@ -95,5 +93,6 @@ THEME = THEMES["light"]
 
 General Public License. See `LICENSE` file for details.
 
-
+---
+Join and have fun!
 
