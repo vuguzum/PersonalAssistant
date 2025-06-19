@@ -85,15 +85,6 @@ You can switch by changing:
 THEME = THEMES["light"]
 ```
 
-## 🧩 File Structure
-
-```
-.
-├── pers_assist.py         # Main application
-├── gTTS_module.py         # Text-to-speech utility
-└── README.md              # This file
-```
-
 ## 📝 Notes
 
 - Pressing the spacebar toggles recording on/off.
