@@ -5,13 +5,13 @@ This is a real-time voice assistant built in Python using [OpenAI Whisper](https
 
 ## 🚀 Features
 
-- 🎧 Real-time microphone input and recording
-- 🧠 On-device Whisper speech-to-text transcription
-- 🔎 Voice activity detection (VAD) for intelligent segmentation
-- 🤖 Chatbot response via local LLM API
-- 🗣️ Text-to-speech response using `gTTS_module`
-- 🌗 Terminal theming (light/dark)
-- 🔁 Multithreaded design for responsive interaction
+- Real-time microphone input and recording
+- On-device Whisper speech-to-text transcription
+- Voice activity detection (VAD) for intelligent segmentation
+- Chatbot response via local LLM API
+- Text-to-speech response using `gTTS_module`
+- Terminal theming (light/dark)
+- Multithreaded design for responsive interaction
 
 ## 📦 Dependencies
 
