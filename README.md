@@ -90,7 +90,7 @@ THEME = THEMES["light"]
 ```
 .
 ├── pers_assist.py         # Main application
-├── gTTS_module.py         # Text-to-speech utility (required)
+├── gTTS_module.py         # Text-to-speech utility
 └── README.md              # This file
 ```
 
